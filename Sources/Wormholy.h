@@ -18,9 +18,7 @@
 #endif
 
 
-#import "NSURLSessionConfiguration+Wormholy.h"
 #import "Wormholy+Foo.h"
-#import "WormholyMethodSwizzling.h"
 
 
 FOUNDATION_EXPORT double WormholyVersionNumber;
